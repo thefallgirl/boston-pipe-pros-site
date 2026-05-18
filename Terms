@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SMS Terms & Conditions | Boston Pipe Pros</title>
+
+  <link rel="stylesheet" href="/assets/css/styles.css">
+
+  <style>
+    .page {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      line-height: 1.7;
+    }
+
+    .page h1,
+    .page h2 {
+      margin-top: 28px;
+    }
+
+    .site-footer {
+      border-top: 1px solid #ddd;
+      margin-top: 60px;
+      padding: 30px 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+
+<main class="page">
+
+<h1>SMS Terms & Conditions</h1>
+
+<h2>SMS Consent Communication</h2>
+
+<p>
+Phone numbers collected for SMS communication purposes
+will not be shared with third parties or affiliates
+for marketing purposes.
+</p>
+
+<h2>Types of SMS Communications</h2>
+
+<p>
+If you consent to receive text messages from Boston Pipe Pros,
+you may receive messages related to:
+</p>
+
+<ul>
+  <li>Appointment scheduling</li>
+  <li>Appointment reminders</li>
+  <li>Project updates</li>
+  <li>Customer support</li>
+  <li>Billing notifications</li>
+</ul>
+
+<p>
+Example:
+"Hello, this is Boston Pipe Pros confirming your appointment
+scheduled for Tuesday at 9:00 AM.
+Reply STOP to opt out of SMS messaging at any time."
+</p>
+
+<h2>Message Frequency</h2>
+
+<p>
+Message frequency may vary depending on your interaction
+with our business.
+</p>
+
+<h2>Potential Fees for SMS Messaging</h2>
+
+<p>
+Standard message and data rates may apply depending
+on your mobile carrier and plan.
+</p>
+
+<h2>Opt-In Method</h2>
+
+<p>
+Customers may opt in to receive SMS communications
+by submitting website forms, requesting service,
+or verbally consenting during scheduling.
+</p>
+
+<h2>Opt-Out Method</h2>
+
+<p>
+You may opt out of SMS communications at any time
+by replying STOP to any message.
+</p>
+
+<h2>Help</h2>
+
+<p>
+Reply HELP for assistance or contact us directly at:
+</p>
+
+<p>
+Boston Pipe Pros<br>
+617-313-7767<br>
+hello@bostonpipepros.com
+</p>
+
+<h2>Standard Messaging Disclosures</h2>
+
+<ul>
+  <li>Message and data rates may apply</li>
+  <li>You can opt out at any time by texting STOP</li>
+  <li>For assistance, text HELP</li>
+  <li>Message frequency may vary</li>
+</ul>
+
+</main>
+
+<footer class="site-footer">
+  <p>
+    &copy; 2026 Boston Pipe Pros. All rights reserved.
+  </p>
+</footer>
+
+</body>
+</html>
