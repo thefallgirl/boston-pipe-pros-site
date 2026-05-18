@@ -34,8 +34,20 @@
     var li = document.createElement('li');
     var link = document.createElement('a');
 
-    link.href = '/privacy';
-    link.textContent = 'Privacy Policy';
+   link.href = '/privacy';
+link.textContent = 'Privacy Policy';
+
+var li2 = document.createElement('li');
+var link2 = document.createElement('a');
+
+link2.href = '/terms';
+link2.textContent = 'Terms & Conditions';
+
+li2.appendChild(link2);
+
+quickLinks.appendChild(li);
+quickLinks.appendChild(li2);
+return;
 
     li.appendChild(link);
     quickLinks.appendChild(li);
