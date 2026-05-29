@@ -192,11 +192,14 @@ body{
     align-items:flex-start;
   }
 }
-  }
-}
-
 @media (max-width: 900px) {
   .header-cta .phone::before {
     content: "📞 ";
+    display: inline;
+  }
+
+  .header-cta .phone {
+    display: inline-flex !important;
+    align-items: center;
   }
 }
