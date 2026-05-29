@@ -124,24 +124,41 @@ body{
   }
 }
 
-@media (max-width:600px){
-
-  .header-inner{
-    flex-wrap:wrap;
-    justify-content:center;
-    gap:10px;
-  }
-
-  .logo{
-    width:100%;
-    justify-content:center;
-  }
-
   .header-cta{
     width:100%;
+    display:flex;
     justify-content:center;
+    align-items:center;
+    gap:22px;
+    flex-wrap:nowrap;
+    margin-top:8px;
   }
 
+  .header-cta .phone{
+    font-size:16px;
+    font-weight:800;
+    white-space:nowrap;
+  }
+
+  .header-cta .btn{
+    min-width:170px;
+    text-align:center;
+  }
+  .header-cta::before{
+    content:"";
+    width:1px;
+    height:42px;
+    background:#d6dbe7;
+    order:2;
+  }
+
+  .header-cta .phone{
+    order:1;
+  }
+
+  .header-cta .btn{
+    order:3;
+  }
   .hero-cta{
     flex-direction:column;
   }
