@@ -16,8 +16,8 @@ a:hover{text-decoration:underline}
 .container{max-width:1100px;margin:auto;padding:0 20px}
 .site-header{position:sticky;top:0;background:#fff;border-bottom:1px solid #e6e9ef;z-index:10}
 .header-inner{display:flex;align-items:center;gap:16px;padding:12px 0}
-.logo-img{height:100px;display:block}
-@media (max-width: 900px){.logo-img{height:72px}}
+.logo-img{height:140px;display:block}
+@media (max-width: 900px){.logo-img{height:100px}}
 .logo{display:flex;align-items:center;gap:10px}
 .nav{display:flex;gap:18px;margin-left:auto}
 .nav a{padding:6px 2px}
