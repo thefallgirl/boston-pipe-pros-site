@@ -32,7 +32,18 @@ a:hover{text-decoration:underline}
 .hero-copy h1{font-size:clamp(28px,3vw,42px);margin:.2em 0}
 .tagline{font-weight:700;color:var(--blue)}
 .hero-bullets{padding-left:18px}
-.hero-cta{display:flex;gap:12px;margin-top:10px}
+.hero-cta{
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+  margin-top:10px;
+  align-items:flex-start;
+}
+
+.hero-cta .btn{
+  width:260px;
+  text-align:center;
+}
 .badge{margin-top:14px;display:inline-block;background:var(--blue);color:#fff;padding:6px 10px;border-radius:999px;font-weight:800;letter-spacing:.4px}
 .hero-card{background:#fff;border-radius:var(--radius);padding:20px;box-shadow:var(--shadow);border:1px solid #e6e9ef}
 .hero-card h3{margin-top:0}
