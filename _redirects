@@ -22,4 +22,6 @@ https://www.bostonpipepros.com/* https://bostonpipepros.com/:splat 301!
 /blog/index.html   /blog   301
 /blog/   /blog   301
 /blog   /blog/index.html   200
+/van   /   301
+/van/  /   301
 /   /index.html   200
